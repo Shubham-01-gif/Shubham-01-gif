@@ -58,16 +58,9 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-01-gif/Shubham-01-gif/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/Shubham-01-gif/Shubham-01-gif/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-01-gif/Shubham-01-gif/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-01-gif/Shubham-01-gif/output/ocean.gif" alt="GitHub Contribution Snake GIF" />
-</p>
 
 
 
