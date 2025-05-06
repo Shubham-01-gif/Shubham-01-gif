@@ -60,6 +60,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shubham-01-gif/Shubham-01-gif/output/github-contribution-grid-snake.svg" />
 </p>
+![Snake animation](https://github.com/Shubham-01-gif/Shubham-01-gif/blob/output/github-snake.svg)
 
 ---
 
