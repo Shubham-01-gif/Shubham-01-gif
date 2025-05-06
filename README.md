@@ -55,13 +55,12 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
   <img src="https://github.com/Shubham-01-gif/Shubham-01-gif/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Shubham-01-gif/Shubham-01-gif/blob/output/ocean.gif" alt="GitHub Contribution Snake GIF" />
-</p>
 
 ---
 
