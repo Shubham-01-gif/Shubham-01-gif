@@ -55,10 +55,6 @@
 
 ---
 
-## 🐍 Snake Contribution Animation
-
----
-
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
